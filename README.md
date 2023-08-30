@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niwune2
-- 👀 <br>I’m interested in ...</br>
+- 👀 <tr>I’m interested in ...</tr>
 - 🌱 I’m currently learning ... JavaScipt, HTML and CSS.
 - 💞️ <br>I’m looking to collaborate on ...</br>
 - 📫 <br>How to reach me ...</br>
