@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @niwune2
-- 👀 <tr>I’m interested in ...</tr>
+<!-- 👀 I’m interested in ...-->
 - 🌱 I’m currently learning ... JavaScipt, HTML and CSS.
-- 💞️ <br>I’m looking to collaborate on ...</br>
-- 📫 <br>How to reach me ...</br>
+<!-- 💞️ I’m looking to collaborate on ...-->
+<!-- 📫 How to reach me ...-->
 
 プログラミングは初心者です。
 趣味でやってます。
